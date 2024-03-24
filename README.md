@@ -5,6 +5,9 @@ languages:
 products:
 - azure
 description: "Azure Cosmos DB is a globally distributed multi-model database."
+"""
+Also
+"""
 ---
 
 # Developing a Python app using the Azure Cosmos DB SQL API
